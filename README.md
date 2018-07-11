@@ -11,7 +11,7 @@
 
 此框架对应nuget包已经上传，地址如下：<br> 
 [SqlServe的nuget包地址:https://www.nuget.org/packages/MonkeyDb.SqlServer/](https://www.nuget.org/packages/MonkeyDb.SqlServer/)<br> 
-[MySql的nuget包地址:https://www.nuget.org/packages/MonkeyDb.SqlServer/](https://www.nuget.org/packages/MonkeyDb.MySql/)<br> 
+[MySql的nuget包地址:https://www.nuget.org/packages/MonkeyDb.MySql/](https://www.nuget.org/packages/MonkeyDb.MySql/)<br> 
 
 
 示例代码如下：<br> 
