@@ -6,8 +6,8 @@
 (6)Emit对象转换，通过。<br> 
 (5)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。<br> 
 ···
-示例代码如下：
-SqlServerTestApp.cs
+示例代码如下：<br> 
+SqlServerTestApp.cs<br> 
 using MonkeyDb;<br> 
 using MonkeyDb.SqlServer;<br> 
 using System;<br> 
@@ -17,12 +17,12 @@ using System.Linq;<br>
 using System.Text;<br> 
 using System.Threading.Tasks;<br> 
 
-namespace SqlServerTestApp
+namespace SqlServerTestApp<br> 
 {
-   public class SqlServerDbTest
+   public class SqlServerDbTest<br> 
     {
-        private string _connString;
-        private bool _isShowSqlToConsole;
+        private string _connString;<br> 
+        private bool _isShowSqlToConsole;<br> 
 
         public SqlServerDbTest(string connString, bool isShowSqlToConsole)
         {
@@ -203,22 +203,22 @@ namespace SqlServerTestApp
     }
 }
 
-UserInfo.cs
-using MonkeyDb;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+UserInfo.cs<br> 
+using MonkeyDb;<br> 
+using System;<br> 
+using System.Collections.Generic;<br> 
+using System.Linq;<br> 
+using System.Text;<br> 
+using System.Threading.Tasks;<br> 
 
-namespace SqlServerTestApp
+namespace SqlServerTestApp<br> 
 {
-   public class UserInfo
+   public class UserInfo<br> 
     {
-        [TableColumn(IsPrimaryKey = true)]
-        public int UserId { get; set; }
+        [TableColumn(IsPrimaryKey = true)]<br> 
+        public int UserId { get; set; }<br> 
 
-        public string UserName { get; set; }
+        public string UserName { get; set; }<br> 
 
         public int Age { get; set; }
 
@@ -226,15 +226,15 @@ namespace SqlServerTestApp
     }
 }
 
-Program.cs
-using System;
+Program.cs<br> 
+using System;<br> 
 
-namespace SqlServerTestApp
+namespace SqlServerTestApp<br> 
 {
-    class Program
+    class Program<br> 
     {
-        static string connectString = "server=localhost;user id=sa;password=123456;database=testdb";
-        static bool isShowSqlToConsole = true;
+        static string connectString = "server=localhost;user id=sa;password=123456;database=testdb";<br> 
+        static bool isShowSqlToConsole = true;<br> 
 
         static void Main(string[] args)
         {
