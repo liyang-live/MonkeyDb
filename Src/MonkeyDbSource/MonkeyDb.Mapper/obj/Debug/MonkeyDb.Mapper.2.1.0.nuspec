@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MonkeyDb.Mapper</id>
+    <version>2.1.0</version>
+    <authors>MonkeyDb.Mapper</authors>
+    <owners>MonkeyDb.Mapper</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.5.2">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Reflection.Emit.Lightweight" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\net45\MonkeyDb.Mapper.dll" target="lib\net45\MonkeyDb.Mapper.dll" />
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\net451\MonkeyDb.Mapper.dll" target="lib\net451\MonkeyDb.Mapper.dll" />
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\net452\MonkeyDb.Mapper.dll" target="lib\net452\MonkeyDb.Mapper.dll" />
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\net46\MonkeyDb.Mapper.dll" target="lib\net46\MonkeyDb.Mapper.dll" />
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\net461\MonkeyDb.Mapper.dll" target="lib\net461\MonkeyDb.Mapper.dll" />
+    <file src="E:\郭超\work\MonkeyDb\Src\MonkeyDbSourceSolution\MonkeyDb.Mapper\bin\Debug\netstandard2.0\MonkeyDb.Mapper.dll" target="lib\netstandard2.0\MonkeyDb.Mapper.dll" />
+  </files>
+</package>

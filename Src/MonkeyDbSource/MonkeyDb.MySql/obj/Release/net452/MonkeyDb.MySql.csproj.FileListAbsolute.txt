@@ -1,0 +1,11 @@
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\MonkeyDb.MySql.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\MonkeyDb.MySql.pdb
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\Google.Protobuf.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\MonkeyDb.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\MonkeyDb.Mapper.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\net452\MySql.Data.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\net452\MonkeyDb.MySql.csproj.CoreCompileInputs.cache
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\net452\MonkeyDb.MySql.AssemblyInfoInputs.cache
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\net452\MonkeyDb.MySql.AssemblyInfo.cs
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\net452\MonkeyDb.MySql.dll
+F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\net452\MonkeyDb.MySql.pdb

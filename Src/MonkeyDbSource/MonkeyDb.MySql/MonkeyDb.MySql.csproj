@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net461;net46;net452;</TargetFrameworks>
+    <Authors>Bruce</Authors>
+    <Company>Bruce</Company>
+    <Description>MonkeyDb.MySql是一套基于ADO.Net和DoNetCore对MySql数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.</Description>
+    <PackageReleaseNotes>MonkeyDb.MySql是一套基于ADO.Net和DoNetCore对MySql数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.</PackageReleaseNotes>
+    <PackageTags>MonkeyDb.MySql MonkeyDb Orm ADO.NET DoNetCore MySql</PackageTags>
+    <Version>2.11</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MonkeyDb" Version="2.11.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.11" />
+  </ItemGroup>
+
+</Project>

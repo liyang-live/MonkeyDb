@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>MonkeyDb是一套基于ADO.Net和DoNetCore对MSSql、MySql、Oracle数据库支持的快速开发和轻量级ORM框架.</Description>
+    <Authors>Bruce</Authors>
+    <Owners>Bruce</Owners>
+    <PackageTags>MonkeyDb Orm ADO.NET DoNetCore</PackageTags>
+    <TargetFrameworks>netstandard2.0;net461;net46;net452;net451;net45;net40;</TargetFrameworks>
+    <version>2.11</version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MonkeyDb.Mapper" Version="2.9.0" />
+  </ItemGroup>
+</Project>

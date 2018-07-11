@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>MonkeyDb.SqlServer是一套基于ADO.Net和DoNetCore对SqlServer数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.</Description>
+    <Authors>Bruce</Authors>
+    <Owners>Bruce</Owners>
+    <PackageTags>MonkeyDb.SqlServer MonkeyDb Orm ADO.NET DoNetCore SqlServer</PackageTags>
+    <TargetFrameworks>netstandard2.0;net461;net46;net452;net451;net45;net40;</TargetFrameworks>
+    <version>2.11</version>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net451'">
+    <PackageReference Include="System.Data.SqlClient">
+      <Version>4.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net452'">
+    <PackageReference Include="System.Data.SqlClient">
+      <Version>4.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net46'">
+    <PackageReference Include="System.Data.SqlClient">
+      <Version>4.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net461'">
+    <PackageReference Include="System.Data.SqlClient">
+      <Version>4.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+    <PackageReference Include="System.Data.SqlClient">
+      <Version>4.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MonkeyDb" Version="2.11.0" />
+  </ItemGroup>
+
+</Project>

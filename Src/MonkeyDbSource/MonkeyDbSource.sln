@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyDb", "MonkeyDb\MonkeyDb.csproj", "{DFB69E2D-EA92-415A-B034-EB200766E153}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyDb.Mapper", "MonkeyDb.Mapper\MonkeyDb.Mapper.csproj", "{3540EAD2-232C-4C23-A99F-5F450CEB777F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyDb.SqlServer", "MonkeyDb.SqlServer\MonkeyDb.SqlServer.csproj", "{3C1351E8-AEC7-41FF-8F25-9C5CF030D8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyDb.MySql", "MonkeyDb.MySql\MonkeyDb.MySql.csproj", "{E90C0874-7A0E-4665-9BD1-5E0F6BD11A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB69E2D-EA92-415A-B034-EB200766E153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB69E2D-EA92-415A-B034-EB200766E153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB69E2D-EA92-415A-B034-EB200766E153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB69E2D-EA92-415A-B034-EB200766E153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3540EAD2-232C-4C23-A99F-5F450CEB777F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3540EAD2-232C-4C23-A99F-5F450CEB777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3540EAD2-232C-4C23-A99F-5F450CEB777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3540EAD2-232C-4C23-A99F-5F450CEB777F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1351E8-AEC7-41FF-8F25-9C5CF030D8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1351E8-AEC7-41FF-8F25-9C5CF030D8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1351E8-AEC7-41FF-8F25-9C5CF030D8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1351E8-AEC7-41FF-8F25-9C5CF030D8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90C0874-7A0E-4665-9BD1-5E0F6BD11A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90C0874-7A0E-4665-9BD1-5E0F6BD11A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90C0874-7A0E-4665-9BD1-5E0F6BD11A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90C0874-7A0E-4665-9BD1-5E0F6BD11A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B22795-64F6-4B65-B095-574360B8E0A1}
+	EndGlobalSection
+EndGlobal
