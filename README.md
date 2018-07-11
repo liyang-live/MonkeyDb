@@ -1,7 +1,7 @@
 **MonkeyDb是一套基于ADO.Net和DoNetCore对MSSql、MySql、Oracle数据库支持的快速开发和轻量级ORM框架.此框架特点如下.**<br> 
 (1)多数据库支持，目前支持MSSql、MySql，后续会支持Oracle、Access、pgsql、Sqlite等数据，进行接续更新。<br> 
 (2)支持事务操作。<br> 
-(3)轻量级对数据库操作的ADO.Net和DoNetCore框架。<br> 
+(3)对多数据库操作的ADO.Net和DoNetCore轻量级框架，支持.NET Framwork4.0以上和.net core2.0以上版本。<br> 
 (4)半ORM框架，目前对单表CURD提供了支持,很方便使用。<br> 
 (5) 对各数据库提供参数化，支持原生IDbDataParameter和类似于Dapper参数对象。<br> 
 (6)Emit对象转换，通过Emit快速将DataTable、DataReader转化为实体对象。<br> 
