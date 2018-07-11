@@ -1,23 +1,21 @@
-**MonkeyDb是一套基于ADO.Net和DoNetCore对MSSql、MySql、Oracle数据库支持的快速开发和轻量级ORM框架.此框架特点如下**
-<br> 
-
-(1)多数据库支持，目前支持MSSql、MySql，后续会支持Oracle、Access、pgsql、Sqlite等数据，进行接续更新。
-(2)支持事务操作。
-(2)半ORM框架，目前对单表CURD提供了支持,很方便使用。
-(4) 对各数据库提供参数化，支持原生IDbDataParameter和类似于Dapper参数对象。
-(6)Emit对象转换，通过。
-(5)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。
+**MonkeyDb是一套基于ADO.Net和DoNetCore对MSSql、MySql、Oracle数据库支持的快速开发和轻量级ORM框架.此框架特点如下.**<br> 
+(1)多数据库支持，目前支持MSSql、MySql，后续会支持Oracle、Access、pgsql、Sqlite等数据，进行接续更新。<br> 
+(2)支持事务操作。<br> 
+(2)半ORM框架，目前对单表CURD提供了支持,很方便使用。<br> 
+(4) 对各数据库提供参数化，支持原生IDbDataParameter和类似于Dapper参数对象。<br> 
+(6)Emit对象转换，通过。<br> 
+(5)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。<br> 
 ···
 示例代码如下：
 SqlServerTestApp.cs
-using MonkeyDb;
-using MonkeyDb.SqlServer;
-using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MonkeyDb;<br> 
+using MonkeyDb.SqlServer;<br> 
+using System;<br> 
+using System.Collections.Generic;<br> 
+using System.Data;<br> 
+using System.Linq;<br> 
+using System.Text;<br> 
+using System.Threading.Tasks;<br> 
 
 namespace SqlServerTestApp
 {
