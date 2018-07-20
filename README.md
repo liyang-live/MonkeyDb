@@ -11,10 +11,10 @@
 MonkeyDb源代码git地址：https://github.com/joyet/MonkeyDb<br> 
 MonkeyDb源代码Demo地址：https://github.com/joyet/MonkeyDbTest<br> 
 
-SqlServe数据库对应nuget包可以通过nuget包管理器搜索:MonkeyDb.SqlServer,或者在包管理台输入以下命令进行安装:Install-Package MonkeyDb.SqlServer -Version 2.11.0<br> 
+SqlServer数据库对应nuget包可以通过nuget包管理器搜索:MonkeyDb.SqlServer,或者在包管理台输入以下命令进行安装:Install-Package MonkeyDb.SqlServer -Version 2.11.0<br> 
 MySql数据库对应nuget包可以通过nuget包管理器搜索:MonkeyDb.MySql,或者在包管理台输入以下命令进行安装:Install-Package MonkeyDb.MySql -Version 2.11.0<br> 
 此框架对应nuget包已经上传，地址如下：<br> 
-SqlServe的nuget包地址:https://www.nuget.org/packages/MonkeyDb.SqlServer/<br> 
+SqlServer的nuget包地址:https://www.nuget.org/packages/MonkeyDb.SqlServer/<br> 
 MySql的nuget包地址:https://www.nuget.org/packages/MonkeyDb.MySql/<br> 
 
 
