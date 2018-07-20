@@ -33,6 +33,7 @@ namespace SqlServerTestApp<br>
 {<br> 
    public class SqlServerDbTest<br> 
     {<br> 
+    
         private string _connString;<br> 
         private bool _isShowSqlToConsole;<br> 
 
