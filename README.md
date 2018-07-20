@@ -7,11 +7,15 @@
 (6)Emit对象转换，通过Emit快速将DataTable、DataReader转化为实体对象。<br> 
 (7)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。<br> <br> 
 
-[MonkeyDb测试Demo地址git：https://github.com/joyet/MonkeyDbTest.git](https://github.com/joyet/MonkeyDbTest.git)<br>
+现在此框架经过前段时间优化，目前源代码已经上传至github。git相关代码地址如下：<br> 
+MonkeyDb源代码git地址：(https://github.com/joyet/MonkeyDb)<br> 
+MonkeyDb源代码Demo地址：(https://github.com/joyet/MonkeyDbTest)<br> 
 
+SqlServe数据库对应nuget包可以通过nuget包管理器搜索:MonkeyDb.SqlServer,或者在包管理台输入以下命令进行安装:Install-Package MonkeyDb.SqlServer -Version 2.11.0<br> 
+MySql数据库对应nuget包可以通过nuget包管理器搜索:MonkeyDb.MySql,或者在包管理台输入以下命令进行安装:Install-Package MonkeyDb.MySql -Version 2.11.0<br> 
 此框架对应nuget包已经上传，地址如下：<br> 
-[SqlServe的nuget包地址:https://www.nuget.org/packages/MonkeyDb.SqlServer/](https://www.nuget.org/packages/MonkeyDb.SqlServer/)<br> 
-[MySql的nuget包地址:https://www.nuget.org/packages/MonkeyDb.MySql/](https://www.nuget.org/packages/MonkeyDb.MySql/)<br> 
+SqlServe的nuget包地址:(https://www.nuget.org/packages/MonkeyDb.SqlServer/)<br> 
+MySql的nuget包地址:(https://www.nuget.org/packages/MonkeyDb.MySql/)<br> 
 
 
 示例代码如下：<br> 
