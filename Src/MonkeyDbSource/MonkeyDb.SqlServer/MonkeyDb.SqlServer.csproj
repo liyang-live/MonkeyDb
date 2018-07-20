@@ -1,12 +1,30 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>MonkeyDb.SqlServer是一套基于ADO.Net和DoNetCore对SqlServer数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.</Description>
+    <Description>MonkeyDb.SqlServer是一套基于ADO.Net和DoNetCore对SqlServer数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.
+此框架特点如下.
+(1)多数据库支持，MonkeyDb.SqlServer提供对SqlServer进行数据库操作支持。
+(2)支持事务操作。
+(3)对多数据库操作的ADO.Net和DoNetCore轻量级框架，支持.NET Framwork4.0以上和.net core2.0以上版本。
+(4)半ORM框架，目前对单表CURD提供了支持,很方便使用。
+(5) 对各数据库提供参数化，支持原生IDbDataParameter和类似于Dapper参数对象。
+(6)Emit对象转换，通过Emit快速将DataTable、DataReader转化为实体对象。
+(7)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。</Description>
     <Authors>Bruce</Authors>
     <Owners>Bruce</Owners>
     <PackageTags>MonkeyDb.SqlServer MonkeyDb Orm ADO.NET DoNetCore SqlServer</PackageTags>
     <TargetFrameworks>netstandard2.0;net461;net46;net452;net451;net45;net40;</TargetFrameworks>
-    <version>2.11</version>
+    <version>2.12</version>
+    <PackageProjectUrl>https://github.com/joyet/MonkeyDb</PackageProjectUrl>
+    <PackageReleaseNotes>MonkeyDb.SqlServer是一套基于ADO.Net和DoNetCore对SqlServer数据库支持的快速开发和轻量级ORM框架，需要MonkeyDb作为基础框架.
+此框架特点如下.
+(1)多数据库支持，MonkeyDb.SqlServer提供对SqlServer进行数据库操作支持。
+(2)支持事务操作。
+(3)对多数据库操作的ADO.Net和DoNetCore轻量级框架，支持.NET Framwork4.0以上和.net core2.0以上版本。
+(4)半ORM框架，目前对单表CURD提供了支持,很方便使用。
+(5) 对各数据库提供参数化，支持原生IDbDataParameter和类似于Dapper参数对象。
+(6)Emit对象转换，通过Emit快速将DataTable、DataReader转化为实体对象。
+(7)MonkeyDb作为数据库基础框架，方便对不同数据库扩展。</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net451'">
@@ -40,7 +58,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="MonkeyDb" Version="2.11.0" />
+    <PackageReference Include="MonkeyDb" Version="2.12.0" />
   </ItemGroup>
 
 </Project>

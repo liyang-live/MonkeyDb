@@ -1,8 +1,0 @@
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\netstandard2.0\MonkeyDb.MySql.deps.json
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\netstandard2.0\MonkeyDb.MySql.dll
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\bin\Release\netstandard2.0\MonkeyDb.MySql.pdb
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\netstandard2.0\MonkeyDb.MySql.csproj.CoreCompileInputs.cache
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\netstandard2.0\MonkeyDb.MySql.AssemblyInfoInputs.cache
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\netstandard2.0\MonkeyDb.MySql.AssemblyInfo.cs
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\netstandard2.0\MonkeyDb.MySql.dll
-F:\work\dotnet\MonkeyDb\MonkeyDb\Src\MonkeyDbSource\MonkeyDb.MySql\obj\Release\netstandard2.0\MonkeyDb.MySql.pdb

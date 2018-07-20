@@ -11,7 +11,7 @@
           "lib/net45/Google.Protobuf.dll": {}
         }
       },
-      "MonkeyDb/2.11.0": {
+      "MonkeyDb/2.12.0": {
         "type": "package",
         "dependencies": {
           "MonkeyDb.Mapper": "2.9.0"
@@ -81,7 +81,7 @@
           "lib/net45/Google.Protobuf.dll": {}
         }
       },
-      "MonkeyDb/2.11.0": {
+      "MonkeyDb/2.12.0": {
         "type": "package",
         "dependencies": {
           "MonkeyDb.Mapper": "2.9.0"
@@ -151,7 +151,7 @@
           "lib/net45/Google.Protobuf.dll": {}
         }
       },
-      "MonkeyDb/2.11.0": {
+      "MonkeyDb/2.12.0": {
         "type": "package",
         "dependencies": {
           "MonkeyDb.Mapper": "2.9.0"
@@ -242,7 +242,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MonkeyDb/2.11.0": {
+      "MonkeyDb/2.12.0": {
         "type": "package",
         "dependencies": {
           "MonkeyDb.Mapper": "2.9.0"
@@ -622,10 +622,10 @@
         "runtime.json"
       ]
     },
-    "MonkeyDb/2.11.0": {
-      "sha512": "uqiE6hvSa6CU8iB9KXAia1PFEiWP233mzlS09aYO3FRj73rfLhsx/DXwa+EiL8TQU2Xsmg84ZSlnEIDoFPff2Q==",
+    "MonkeyDb/2.12.0": {
+      "sha512": "7Dt1ziznPuJEohkoeQK57zltPSaAa8O5QYymcYkXRCEw6DWhb1jbFuwh8/ob1g5JAiOUKN/71ZW629SbHkRCuA==",
       "type": "package",
-      "path": "monkeydb/2.11.0",
+      "path": "monkeydb/2.12.0",
       "files": [
         "lib/net40/MonkeyDb.dll",
         "lib/net45/MonkeyDb.dll",
@@ -634,7 +634,7 @@
         "lib/net46/MonkeyDb.dll",
         "lib/net461/MonkeyDb.dll",
         "lib/netstandard2.0/MonkeyDb.dll",
-        "monkeydb.2.11.0.nupkg.sha512",
+        "monkeydb.2.12.0.nupkg.sha512",
         "monkeydb.nuspec"
       ]
     },
@@ -1971,19 +1971,19 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.5.2": [
-      "MonkeyDb >= 2.11.0",
+      "MonkeyDb >= 2.12.0",
       "MySql.Data >= 8.0.11"
     ],
     ".NETFramework,Version=v4.6": [
-      "MonkeyDb >= 2.11.0",
+      "MonkeyDb >= 2.12.0",
       "MySql.Data >= 8.0.11"
     ],
     ".NETFramework,Version=v4.6.1": [
-      "MonkeyDb >= 2.11.0",
+      "MonkeyDb >= 2.12.0",
       "MySql.Data >= 8.0.11"
     ],
     ".NETStandard,Version=v2.0": [
-      "MonkeyDb >= 2.11.0",
+      "MonkeyDb >= 2.12.0",
       "MySql.Data >= 8.0.11",
       "NETStandard.Library >= 2.0.1"
     ]
@@ -1994,7 +1994,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "2.11.0",
+    "version": "2.12.0",
     "restoreSettings": {
       "hideWarningsAndErrors": true
     },
@@ -2050,7 +2050,7 @@
         "dependencies": {
           "MonkeyDb": {
             "target": "Package",
-            "version": "[2.11.0, )"
+            "version": "[2.12.0, )"
           },
           "MySql.Data": {
             "target": "Package",
@@ -2062,7 +2062,7 @@
         "dependencies": {
           "MonkeyDb": {
             "target": "Package",
-            "version": "[2.11.0, )"
+            "version": "[2.12.0, )"
           },
           "MySql.Data": {
             "target": "Package",
@@ -2074,7 +2074,7 @@
         "dependencies": {
           "MonkeyDb": {
             "target": "Package",
-            "version": "[2.11.0, )"
+            "version": "[2.12.0, )"
           },
           "MySql.Data": {
             "target": "Package",
@@ -2086,7 +2086,7 @@
         "dependencies": {
           "MonkeyDb": {
             "target": "Package",
-            "version": "[2.11.0, )"
+            "version": "[2.12.0, )"
           },
           "MySql.Data": {
             "target": "Package",
